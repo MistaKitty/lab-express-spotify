@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    flex-direction: column;
+    
+}
+
+h1 {
+    padding: 1vw;
+    
+}
+
+footer {
+    padding: 5vw;
+    
+}
+
