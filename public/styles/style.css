@@ -1,20 +1,28 @@
-body {
+.search-artist {
+    border: ridge 1px;
     text-align: center;
     align-items: center;
-    justify-content: center;
+    margin: 20%;
+    padding-bottom: 2%;
+    padding: auto;
+}
+
+
+
+.artist-list {
     align-items: center;
-    height: 500px;
-    flex-direction: column;
-    
+    text-align: center;
+    border: ridge 1px;
+    margin: 2%;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 
-h1 {
-    padding: 1vw;
-    
+.music-list {
+    align-items: center;
+    text-align: center;
+    border: ridge 1px;
+    margin: 2%;
+    margin-left: 25%;
+    margin-right: 25%;
 }
-
-footer {
-    padding: 5vw;
-    
-}
-
